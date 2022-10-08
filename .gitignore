@@ -1,0 +1,11 @@
+# Outputs
+artifacts/
+
+# Editor artifacts
+*~
+
+# Platform artifacts
+.DS_Store
+
+# Run time artifacts
+record-*.txt
